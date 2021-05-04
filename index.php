@@ -76,6 +76,8 @@ foreach ($splitOnLetterContainersStart as $splitOnLetterContainerStartIndex => $
     }
 }
 
+echo '<h1>Voici la liste de tous les langages qui puent grave la merde</h1>';
+
 foreach ($languages as $languageIndex => $language) {
     if ($languageIndex > 0) {
         echo '<br>';
