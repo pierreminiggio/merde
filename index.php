@@ -63,7 +63,9 @@ foreach ($splitOnLetterContainersStart as $splitOnLetterContainerStartIndex => $
                     '[9]',
                     '[10]',
                     '[11]',
-                    '[12]'
+                    '[12]',
+                    'modifier',
+                    'modifier le code'
                 ]
             )
         ) {
