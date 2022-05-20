@@ -78,18 +78,18 @@ foreach ($splitOnLetterContainersStart as $splitOnLetterContainerStartIndex => $
     }
 }
 echo    '<head>
-<title>Les languages de merde</title>
+<title>Les langages de merde</title>
 <!--FrontEnd by BeowolfK-->
 <!--<meta http-equiv="refresh" content="10" >-->
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="title" content="Les languages de merde">
-<meta name="description" content="Voici la liste de tous les languages qui puent grave la merde">
+<meta name="title" content="Les langages de merde">
+<meta name="description" content="Voici la liste de tous les langages qui puent grave la merde">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://merde.ggio.fr/">
-<meta property="og:title" content="Les languages de merde">
-<meta property="og:description" content="Voici la liste de tous les languages qui puent grave la merde">
+<meta property="og:title" content="Les langages de merde">
+<meta property="og:description" content="Voici la liste de tous les langages qui puent grave la merde">
 <meta property="og:image" content="http://assets.stickpng.com/images/5897a52fcba9841eabab614b.png">
 <link rel="icon" href="http://assets.stickpng.com/images/5897a52fcba9841eabab614b.png">
 <style>
